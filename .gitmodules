@@ -1,0 +1,6 @@
+[submodule "plugins/ranger-autojump"]
+	path = plugins/ranger-autojump
+	url = https://github.com/fdw/ranger-autojump.git
+[submodule "plugins/ranger-devicons2"]
+	path = plugins/ranger-devicons2
+	url = https://github.com/cdump/ranger-devicons2.git
